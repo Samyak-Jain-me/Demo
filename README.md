@@ -1,4 +1,4 @@
 # Demo
 This is a Demo
 <br>
-Made by samyak 
+Made by samyak (NSIT)
